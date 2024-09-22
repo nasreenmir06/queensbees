@@ -92,3 +92,10 @@ footer {
 li {
     margin-left: 90px;
 }
+
+hr {
+    border: 1px solid #000; 
+    width: 100%;         
+    margin-top: 20px;         
+    margin-bottom: 20px;      
+}
